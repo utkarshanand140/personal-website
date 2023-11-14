@@ -22,7 +22,7 @@ role: Undergrduate Student in Electrical & Electronics Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Manipal Institute of Technology
-    url: [https://www.stanford.edu/](https://manipal.edu/mit.html)
+    url: https://manipal.edu/mit.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, AI and rocketry.
