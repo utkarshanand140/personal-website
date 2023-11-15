@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Robotics & Rocketry Enthusiast
+# title: Robotics & Rocketry Enthusiast
 
 # Name pronunciation (optional)
 name_pronunciation: Utkarsh Anand

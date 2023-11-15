@@ -69,7 +69,7 @@ sections:
           location: Remote
           date_start: '2021-01-01'
           date_end: ''
-          description: Working on developing reward baed LLMs for peptide generation targeting a high protein-protein interaction binding affinity.
+          description: Working on developing reward based LLMs for peptide generation targeting a high protein-protein interaction binding affinity.
         # - title: Deep Learning Research Intern
         #   company: Boltzmann Labs
         #   company_url: 'https://boltzmann.co/'
@@ -90,11 +90,7 @@ sections:
           location: Remote
           date_start: '2023-07-01'
           date_end: '2023-11-04'
-          description: |2-
-                Worked under Asst. Prof. Rahul Thakur in IoT Lab and responsible for: 
-                
-                * Design & development of custom solar powered sensing devices for installation on trees.
-                * Design of PCBs & power electronics circuits for Solar Power Manager and custom I2C Converters.
+          description: Worked under Asst. Prof. [Rahul Thakur](https://www.linkedin.com/in/rahul-thakur-5a11a7109/) in IoT Lab and responsible for Design & Development of custom solar powered sensing devices for installation on trees. Also designed PCBs & power electronics circuits for Solar Power Manager and custom I2C Converters.
 
         - title: Research Fellow
           company: Indian Institute of Sciences
@@ -103,11 +99,7 @@ sections:
           location: Bangalore
           date_start: '2023-01-01'
           date_end: '2023-06-01'
-          description: |2-
-                Worked under Prof. Govind S. Gupta and worked on:
-                
-                * Optimization of Multi Phase Flow mathematical computations using custom Neural Networks.
-                * Developed a Python based web application for Gas Cabaurizing Process Simulations.
+          description: Worked under Prof. [Govind S. Gupta](https://materials.iisc.ac.in/~govindg/) and worked on Optimization of Multi Phase Flow mathematical computations using custom Neural Networks. Developed a Python based web application for Gas Cabaurizing Process Simulations.
 
         - title: Computer Vision Intern
           company: Defence Research & Development Organization
@@ -116,11 +108,7 @@ sections:
           location: Hyderabad
           date_start: '2022-12-01'
           date_end: '2023-01-01'
-          description: |2-
-                Worked under Prof. Govind S. Gupta and worked on:
-                
-                * Optimization of Multi Phase Flow mathematical computations using custom Neural Networks.
-                * Developed a Python based web application for Gas Cabaurizing Process Simulations.
+          description: Worked on the Deep Learning Platform for Defence Applications (DLPDA) project to develop an in-house state of the art Computer Vision based Automated Image Annotation Tool for large & confidential datasets for training of Deep Learning models using OpenCV.Addtionally, developed a user-friendly GUI in Qt & Python and reduced the time taken for annotaiton process by 96%.
     design:
       columns: '2'
   - block: accomplishments
