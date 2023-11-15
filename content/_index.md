@@ -65,7 +65,7 @@ sections:
         - title: Deep Learning Research Intern
           company: Boltzmann Labs
           company_url: 'https://boltzmann.co/'
-          company_logo: org-gc
+          company_logo: org-bolt
           location: Remote
           date_start: '2021-01-01'
           date_end: ''
@@ -86,7 +86,7 @@ sections:
         - title: Power Electronics Intern
           company: Indian Institute of Technology Roorkee
           company_url: 'https://www.iitr.ac.in/'
-          company_logo: org-x
+          company_logo: org-iitr
           location: Remote
           date_start: '2023-07-01'
           date_end: '2023-11-04'
@@ -95,7 +95,7 @@ sections:
         - title: Research Fellow
           company: Indian Institute of Sciences
           company_url: 'https://iisc.ac.in/'
-          company_logo: org-x
+          company_logo: org-iisc
           location: Bangalore
           date_start: '2023-01-01'
           date_end: '2023-06-01'
@@ -104,11 +104,29 @@ sections:
         - title: Computer Vision Intern
           company: Defence Research & Development Organization
           company_url: 'https://www.drdo.gov.in/labs-and-establishments/research-centre-imarat-rci'
-          company_logo: org-x
+          company_logo: org-drdo
           location: Hyderabad
           date_start: '2022-12-01'
           date_end: '2023-01-01'
           description: Worked on the Deep Learning Platform for Defence Applications (DLPDA) project to develop an in-house state of the art Computer Vision based Automated Image Annotation Tool for large & confidential datasets for training of Deep Learning models using OpenCV.Addtionally, developed a user-friendly GUI in Qt & Python and reduced the time taken for annotaiton process by 96%.
+
+        - title: Head of Payload & Launch Operations Lead
+          company: thrustMIT Rocketry Team
+          company_url: 'www.thrustmit.in'
+          company_logo: org-tmit
+          location: Manipal
+          date_start: '2021-10-01'
+          date_end: '2023-09-01'
+          description: Led the Payload subsystem & responsible for design, development and testing of the payloads for a sounding rocket with an apogee of 10k feet. Successfully researched and developed a reliable replacement of RK4 method based air-bake control mechanism by Deep Learning models Successfully developed and patented a novel radial Payload Deployment mechanism for sounding rocket. Developed the official website of the team.
+
+        - title: Deep Learning Intern
+          company: Inflyuva Tech Solutions Pvt. Ltd.
+          company_url: 'https://www.linkedin.com/company/infyuva-tech-solutions-pvt-ltd/about/'
+          company_logo: org-inf
+          location: Manipal
+          date_start: '2022-12-01'
+          date_end: '2023-06-01'
+          description: Developed Mask‐Red‐CNN based Deep Learning models on Fundus Images for early detection of Glaucoma in patients. Successfully tackled working on limited data through various augmentation & generative techniques. Focused on reducing False Negatives & achieved accuracy of almost 94%.
     design:
       columns: '2'
   - block: accomplishments
