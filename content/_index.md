@@ -62,27 +62,65 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Deep Learning Research Intern
+          company: Boltzmann Labs
+          company_url: 'https://boltzmann.co/'
           company_logo: org-gc
-          location: California
+          location: Remote
           date_start: '2021-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: Working on developing reward baed LLMs for peptide generation targeting a high protein-protein interaction binding affinity.
+        # - title: Deep Learning Research Intern
+        #   company: Boltzmann Labs
+        #   company_url: 'https://boltzmann.co/'
+        #   company_logo: org-gc
+        #   location: Remote
+        #   date_start: '2021-01-01'
+        #   date_end: ''
+        #   description: |2-
+        #       Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        #       * Analysing
+        #       * Modelling
+        #       * Deploying
+        - title: Power Electronics Intern
+          company: Indian Institute of Technology Roorkee
+          company_url: 'https://www.iitr.ac.in/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Remote
+          date_start: '2023-07-01'
+          date_end: '2023-11-04'
+          description: |2-
+                Worked under Asst. Prof. Rahul Thakur in IoT Lab and responsible for: 
+                
+                * Design & development of custom solar powered sensing devices for installation on trees.
+                * Design of PCBs & power electronics circuits for Solar Power Manager and custom I2C Converters.
+
+        - title: Research Fellow
+          company: Indian Institute of Sciences
+          company_url: 'https://iisc.ac.in/'
+          company_logo: org-x
+          location: Bangalore
+          date_start: '2023-01-01'
+          date_end: '2023-06-01'
+          description: |2-
+                Worked under Prof. Govind S. Gupta and worked on:
+                
+                * Optimization of Multi Phase Flow mathematical computations using custom Neural Networks.
+                * Developed a Python based web application for Gas Cabaurizing Process Simulations.
+
+        - title: Computer Vision Intern
+          company: Defence Research & Development Organization
+          company_url: 'https://www.drdo.gov.in/labs-and-establishments/research-centre-imarat-rci'
+          company_logo: org-x
+          location: Hyderabad
+          date_start: '2022-12-01'
+          date_end: '2023-01-01'
+          description: |2-
+                Worked under Prof. Govind S. Gupta and worked on:
+                
+                * Optimization of Multi Phase Flow mathematical computations using custom Neural Networks.
+                * Developed a Python based web application for Gas Cabaurizing Process Simulations.
     design:
       columns: '2'
   - block: accomplishments
@@ -214,16 +252,16 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -235,39 +273,39 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to contact me on my mail if you have any queries with respect to my work or you would like to include me to your project.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+      email: utkarshanand221@gmail.com
+      phone: +91-7678657664
+      # appointment_url: 'https://calendly.com'
+      # address:
+      #   street: 450 Serra Mall
+      #   city: Stanford
+      #   region: CA
+      #   postcode: '94305'
+      #   country: United States
+      #   country_code: US
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+      # # Choose a map provider in `params.yaml` to show a map from these coordinates
+      # coordinates:
+      #   latitude: '37.4275'
+      #   longitude: '-122.1697'  
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: DM Me
+      #     link: 'https://twitter.com/Twitter'
+      #   - icon: skype
+      #     icon_pack: fab
+      #     name: Skype Me
+      #     link: 'skype:echo123?call'
+      #   - icon: video
+      #     icon_pack: fas
+      #     name: Zoom Me
+      #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

@@ -1,6 +1,6 @@
 ---
 # Display name
-# title: 吳健雄
+title: Robotics & Rocketry Enthusiast
 
 # Name pronunciation (optional)
 name_pronunciation: Utkarsh Anand
@@ -121,7 +121,7 @@ social:
   # and uncomment the lines below.
   - icon: download
     icon_pack: fas
-    link: static/uploads/resume_.pdf
+    link: https://drive.google.com/file/d/1IQB4D_CxFM9PqXcbLz0wN1VBhS5PNe1a/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -131,11 +131,11 @@ As a senior undergraduate student pursuing a Bachelor of Technology in Electrica
 
 I was part of a student rocketry team - [thrustMIT](www.thrustmit.in) for two years, where I was the Head of Launch Operations of the team as well as led a subsystem of six members as the Head of Payload subsystem. We took part in the Spaceport America Cup in United States and competed against the teams from most prestigious universities from all over the world. I was responsible for design, development and testing of Payloads for sounding rockets with apogee of about 10,000 fts. We launched our sounding rocket Altair on 23rd of June at Spaceport America in New Mexico, United States and it went onto a altitude of 10,300 ft and recovered succesfully.
 
-Currently, I am working as a Deep Learning Research Intern at Boltzmann Labs, where am developing reward based Large Language Models (LLMs) for peptide generation targeting a high protein - protein interaction binding affinity. I have previously worked as a Research Intern at various prestigious institutions like IIT Roorkee, IISc Bangalore, IIT Bombay, DRDO etc. I was awarded the prestigious IASc‐INSA‐NASI Summer Research Fellowship by Indian Academy of Sciences in 2022.
+Currently, I am working as a Deep Learning Research Intern at Boltzmann Labs, where am developing reward based Large Language Models (LLMs) for peptide generation targeting a high protein - protein interaction binding affinity. I have previously worked as a Research Intern at various prestigious institutions like IIT Roorkee, IISc Bangalore, IIT Bombay, DRDO etc. I was awarded the prestigious **IASc‐INSA‐NASI Summer Research Fellowship by Indian Academy of Sciences in 2022**.
 
 My primary research interest and expertise lies in the domains of Reinforcement Learning and Robotics, and I have multiple certifications, publications, and patents in these fields.
 
 **I will be joining [Stochastic Robotics Lab](https://www.stochlab.com/) as a Embedded Systems Intern at Indian Institute of Sciences, Bangalore starting from January 2024. I will be working on developing, testing and modeling embedded systems for different aspects of quadraped robots such as actuators, power systems etc.** If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
 
-{{< icon name="download" pack="fas" >}}{{< staticref "static/uploads/resume_.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/1IQB4D_CxFM9PqXcbLz0wN1VBhS5PNe1a/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
 {style="text-align: justify;"}
