@@ -47,7 +47,7 @@ sections:
     id: award
     content:
       title: Awards
-      text: '-hello -hellow2'
+      text: <ul><li>Item 1</li><li>Item 2</li><li>Item 3</li></ul>
       
     design:
       columns: '2'
