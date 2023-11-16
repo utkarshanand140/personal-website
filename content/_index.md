@@ -245,6 +245,8 @@ sections:
           tag: Robotics
         - name: Computer Vision
           tag: CV
+        - name: Electronics
+          tag: Electro
         - name: Other
           tag: Other
     design:
