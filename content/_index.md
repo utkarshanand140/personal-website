@@ -47,7 +47,7 @@ sections:
     id: award
     content:
       title: Awards
-      text: hello
+      text: '-hello -hellow2'
       
     design:
       columns: '2'
