@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: hero
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Hugo Academic Theme
       image:
@@ -112,7 +112,7 @@ sections:
 
         - title: Head of Payload & Launch Operations Lead
           company: thrustMIT Rocketry Team
-          company_url: 'www.thrustmit.in'
+          company_url: 'https://www.thrustmit.in/'
           company_logo: org-tmit
           location: Manipal
           date_start: '2021-10-01'

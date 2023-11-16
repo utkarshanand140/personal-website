@@ -6,7 +6,7 @@ tags:
 date: '2022-11-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/thrustMIT/thrustMIT-Website'
+external_link: 'https://www.thrustmit.in/'
 
 image:
   caption: Screenshot of Homepage
