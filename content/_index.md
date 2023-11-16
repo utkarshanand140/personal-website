@@ -47,7 +47,8 @@ sections:
     id: award
     content:
       title: Awards
-      text: <ul><li>Item 1</li><li>Item 2</li><li>Item 3</li></ul>
+      text: <ul><li> <a href="https://webjapps.ias.ac.in/fellowship2022/lists/result.jsp">IASc‐INSA‐NASI Summer Research Fellowship 2022</a> by Indian Academy of Sciences </li><li><a href="https://drive.google.com/file/d/1uRIwjcsthqqe_wR86Egf5BL2SVgjJrkO/view">2nd Position at  Design Dentaverse 1.0 Hackathon</a> for a Smart Scrub with Posture Correction.</li></ul>
+
       
     design:
       columns: '2'
