@@ -43,13 +43,17 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: collection
+  - block: markdown
     id: award
     content:
       title: Awards
-      filters:
-        folders:
-          - event
+      text: |-
+
+      {{ 
+        -2021 [Outstanding PhD Dissertation](https://www.media.mit.edu/posts/natasha-jaques-best-phd-award/?fbclid=IwAR0dT73P4HeNolVWSFRwYAxrKaPl3pDoDw3CItIUE-5rlB5437y0C7-fYvI) from the international [Association for the Advancement of Affective Computing](https://aaac.world/)
+        -2021 [Best of Collection](https://www.acii-conf.net/2021/wp-content/uploads/2021/09/ACII2021_booklet_v3.pdf) in the journal IEEE Transactions on Affective Computing ([impact factor: 10.5](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369))
+        }}
+      
     design:
       columns: '2'
       view: compact
