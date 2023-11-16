@@ -227,14 +227,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   - block: collection
     id: featured
     content:
@@ -270,21 +270,21 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Feel free to contact me on my mail if you have any queries with respect to my work or you would like to include me to your project.
-      # Contact (add or remove contact options as necessary)
-      email: utkarshanand221@gmail.com
-      phone: +91-7678657664
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     text: |-
+  #       Feel free to contact me on my mail if you have any queries with respect to my work or you would like to include me to your project.
+  #     # Contact (add or remove contact options as necessary)
+  #     email: utkarshanand221@gmail.com
+  #     phone: +91-7678657664
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall
@@ -315,15 +315,15 @@ sections:
       #     name: Zoom Me
       #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+      # autolink: true
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
+    # design:
+    #   columns: '2'
 ---
