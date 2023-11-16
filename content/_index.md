@@ -42,6 +42,17 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
+  - block: collection
+    id: award
+    content:
+      title: Awards
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: skills
     content:
       title: Skills
@@ -51,6 +62,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -260,16 +272,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
