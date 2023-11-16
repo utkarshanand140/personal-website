@@ -6,7 +6,7 @@ tags:
 date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://drive.google.com/file/d/1-jHxoFsWvdbVfj-8jFUWSZthyN3VOAIb/view?usp=sharing'
+external_link: 'https://drive.google.com/drive/folders/1ufRh2NZzXsDTam_lf5W0o3Z7jw3xE2hi?usp=sharing'
 
 image:
   caption: PCB Model
@@ -16,7 +16,7 @@ links:
   - icon: google-drive
     icon_pack: fab
     name: Google Drive
-    url: https://drive.google.com/file/d/1-jHxoFsWvdbVfj-8jFUWSZthyN3VOAIb/view?usp=sharing
+    url: https://drive.google.com/drive/folders/1ufRh2NZzXsDTam_lf5W0o3Z7jw3xE2hi?usp=sharing
 url_code: ''
 url_pdf: ''
 url_slides: ''

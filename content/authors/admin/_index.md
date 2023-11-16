@@ -121,7 +121,7 @@ social:
   # and uncomment the lines below.
   - icon: download
     icon_pack: fas
-    link: https://drive.google.com/file/d/1IQB4D_CxFM9PqXcbLz0wN1VBhS5PNe1a/view?usp=sharing
+    link: https://drive.google.com/file/d/1iRcyj-6uSt_GN4InN8LB0qwmKdMBr74t/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -137,5 +137,5 @@ My primary research interest and expertise lies in the domains of Reinforcement 
 
 **I will be joining [Stochastic Robotics Lab](https://www.stochlab.com/) as a Embedded Systems Intern at Indian Institute of Sciences, Bangalore starting from January 2024. I will be working on developing, testing and modeling embedded systems for different aspects of quadraped robots such as actuators, power systems etc.** If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
 
-{{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/1IQB4D_CxFM9PqXcbLz0wN1VBhS5PNe1a/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/1iRcyj-6uSt_GN4InN8LB0qwmKdMBr74t/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
 {style="text-align: justify;"}
