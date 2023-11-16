@@ -215,7 +215,7 @@ sections:
     id: patent
     content:
       title: Patents
-      text: <ol><li><font size="5"><b>SMART SCRUB WITH POSTURE CORRECTION</b></font><br>2023 | Indian Patent Office | <i>Application No.: 202341056831</i><ul><li>Smart Wearable Tech fitted into scrubs for pain relief & posture correction for medical professionals.</li><li>Developed complete hardware of technology including system design, PCB design & embedded programming of mechanism.</li></ul></li><li><font size="5"><b>PAYLOAD DEPLOYMENT MECHANISM IN SOUNDING ROCKET</b></font><br>2023 | Indian Patent Office | <i>Application No.: 202341075776</i><ul><li>Novel radial deployment mechanism for payloads in sounding rockets without use of pyrotechnics.</li><li>Contributed to complete design, development & testing of mechanism.</li></ul></li></ol>
+      text: ' <ol><li><font size="5"><b>SMART SCRUB WITH POSTURE CORRECTION</b></font><br>2023 | Indian Patent Office | <i>Application No.: 202341056831</i><ul><li>Smart Wearable Tech fitted into scrubs for pain relief & posture correction for medical professionals.</li><li>Developed complete hardware of technology including system design, PCB design & embedded programming of mechanism.</li></ul></li><li><font size="5"><b>PAYLOAD DEPLOYMENT MECHANISM IN SOUNDING ROCKET</b></font><br>2023 | Indian Patent Office | <i>Application No.: 202341075776</i><ul><li>Novel radial deployment mechanism for payloads in sounding rockets without use of pyrotechnics.</li><li>Contributed to complete design, development & testing of mechanism.</li></ul></li></ol> '
 
       
     design:
