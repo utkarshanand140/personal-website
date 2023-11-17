@@ -10,18 +10,20 @@ main:
   - name: Awards
     url: '#award'
     weight: 20
-  - name: Experience
-    url: '#experience'
-    weight: 30
-  - name: Projects
-    url: '#projects'
-    weight: 40
-  - name: Patents
-    url: '#patent'
-    weight: 50
   - name: Publications
     url: '#featured'
+    weight: 30
+  - name: Patents
+    url: '#patent'
+    weight: 40
+  - name: Experience
+    url: '#experience'
+    weight: 50
+  - name: Projects
+    url: '#projects'
     weight: 60
+  
+  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
