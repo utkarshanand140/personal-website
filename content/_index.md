@@ -121,9 +121,9 @@ sections:
           company_url: 'https://boltzmann.co/'
           company_logo: org-bolt
           location: Remote
-          date_start: '2021-01-01'
-          date_end: ''
-          description: Working on developing reward based LLMs for peptide generation targeting a high protein-protein interaction binding affinity.
+          date_start: '2023-11-01'
+          date_end: '2023-12-31'
+          description: Developed reward based LLMs for peptide generation targeting a high protein-protein interaction binding affinity and worked on prediction models for T-Cell Receptor-peptide binding & Peptide-HLA Class-I binding for high Spearman Score.
         # - title: Deep Learning Research Intern
         #   company: Boltzmann Labs
         #   company_url: 'https://boltzmann.co/'
