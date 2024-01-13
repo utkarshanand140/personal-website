@@ -121,7 +121,7 @@ social:
   # and uncomment the lines below.
   - icon: download
     icon_pack: fas
-    link: https://drive.google.com/file/d/1lw6YqgDeQ5m_wOsjmpUHrUDBCjYHl2D6/view?usp=sharing
+    link: https://drive.google.com/file/d/1bRn3H7pF1mhHpqvEw8ivrqyjvJHVspMB/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -135,7 +135,7 @@ I have previously worked as a Research Intern at various prestigious institution
 
 My primary research interest and expertise lies in the domains of Reinforcement Learning and Robotics, and I have multiple certifications, publications, and patents in these fields.
 
-**I will be joining [Stochastic Robotics Lab](https://www.stochlab.com/) as a Embedded Systems Intern at Indian Institute of Sciences, Bangalore starting from January 2024. I will be working on developing, testing and modeling embedded systems for different aspects of quadraped robots such as actuators, power systems etc.** If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
+**I am currently working as a Robotics Embedded Systems Intern at [Chirathe Robotics, ARTPARK, Indian Institute of Sciences, Bangalore](https://www.chiratherobotics.in/).** If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
 
-{{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/1lw6YqgDeQ5m_wOsjmpUHrUDBCjYHl2D6/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/1bRn3H7pF1mhHpqvEw8ivrqyjvJHVspMB/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
 {style="text-align: justify;"}

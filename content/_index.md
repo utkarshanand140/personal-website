@@ -116,6 +116,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Robotics Embedded Systems Intern
+          company: Chirathe Robotics, ARTPARK (IISc)
+          company_url: 'https://www.chiratherobotics.in/'
+          company_logo: org-chirathe
+          location: Bangalore
+          date_start: '2024-01-01'
+          date_end: 
+          description: Working on developing, testing and modeling embedded systems for different aspects of quadraped robots such as actuators, power systems etc.
+          ########################################################################
         - title: Deep Learning Research Intern
           company: Boltzmann Labs
           company_url: 'https://boltzmann.co/'
