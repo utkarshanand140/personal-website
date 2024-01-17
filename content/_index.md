@@ -123,7 +123,7 @@ sections:
           location: Bangalore
           date_start: '2024-01-01'
           date_end: 
-          description: Working on developing, testing and modeling embedded systems for different aspects of quadraped robots such as actuators, power systems etc.
+          description: Responsible of complete design, development & testing of both hardware and software of battery subsystem for a quadruped robot from scratch at Chirathe Robotics.
           ########################################################################
         - title: Deep Learning Research Intern
           company: Boltzmann Labs
