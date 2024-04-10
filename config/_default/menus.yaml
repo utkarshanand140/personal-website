@@ -25,6 +25,9 @@ main:
   - name: Gallery
     url: '#gallery'
     weight: 70
+  - name: Blogs
+    url: 'https://utkarsh-blogs.netlify.app/'
+    weight: 80
   
   
 
