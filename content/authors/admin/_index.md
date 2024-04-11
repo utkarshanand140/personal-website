@@ -137,5 +137,5 @@ My primary research interest and expertise lies in the domains of Reinforcement 
 
 **I am currently working as a Robotics Embedded Systems Intern at [Chirathe Robotics, ARTPARK, Indian Institute of Sciences, Bangalore](https://www.chiratherobotics.in/).** If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
 
-{{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/1wG6uiqnCp1y9rYGBoAmBWSLSTTQ2DCUI/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/11WZH7dx99UDM8eiuM8cT4PA1c6lAQUeX/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
 {style="text-align: justify;"}
