@@ -121,7 +121,7 @@ social:
   # and uncomment the lines below.
   - icon: download
     icon_pack: fas
-    link: https://drive.google.com/file/d/1wG6uiqnCp1y9rYGBoAmBWSLSTTQ2DCUI/view?usp=sharing
+    link: https://drive.google.com/file/d/11WZH7dx99UDM8eiuM8cT4PA1c6lAQUeX/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
