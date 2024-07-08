@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergrad in Electrical Engineering
+role: Associate Electrical Systems Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Manipal Institute of Technology
-    url: https://manipal.edu/mit.html
+  - name: Strider Robotics, ARTPARK, Indian Institute of Sciences
+    url: https://www.strider-robotics.in/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics, AI and rocketry.
