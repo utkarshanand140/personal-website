@@ -116,13 +116,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Associate Electrical System Engineer
+          company: Strider Robotics, ARTPARK (IISc)
+          company_url: 'https://www.strider-robotics.in/'
+          company_logo: org-chirathe
+          location: Bangalore
+          date_start: '2024-07-01'
+          date_end: 
+          description: Working on complete electrical system design and firmware programming for agile quadruped robots.
+        
         - title: Robotics Embedded Systems Intern
-          company: Chirathe Robotics, ARTPARK (IISc)
-          company_url: 'https://www.chiratherobotics.in/'
+          company: Strider Robotics, ARTPARK (IISc)
+          company_url: 'https://www.strider-robotics.in/'
           company_logo: org-chirathe
           location: Bangalore
           date_start: '2024-01-01'
-          date_end: 
+          date_end: '2024-06-28'
           description: Responsible of complete design, development & testing of both hardware and software of battery subsystem for a quadruped robot from scratch at Chirathe Robotics.
           ########################################################################
         - title: Deep Learning Research Intern
