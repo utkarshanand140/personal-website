@@ -17,8 +17,8 @@ doi: "https://doi.org/10.48550/arXiv.2310.19673"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Applied Mechanics"
-publication_short: "JAM"
+publication: "Arxiv"
+publication_short: "Arxiv"
 
 abstract: This research paper introduces an innovative payload deployment mechanism tailored for sounding rockets, addressing a crucial challenge in the field. The problem statement revolves around the need to efficiently and compactly deploy multiple payloads during a single rocket launch. This mechanism, designed to be exceptionally suitable for sounding rockets, features a cylindrical carrier structure equipped with multiple independently operable deployment ports. Powered by a motor, the carrier structure rotates to enable radial ejection of payloads. In this paper, we present the mechanism's design and conduct a comprehensive performance analysis. This analysis encompasses an examination of structural stability, system dynamics, motor torque, and power requirements. Additionally, we develop a simulation model to assess payload deployment behavior under various conditions. Our findings demonstrate the viability and efficiency of this proposed mechanism for deploying multiple payloads within a single sounding rocket launch. Its adaptability to accommodate diverse payload types and sizes enhances its versatility. Moreover, the mechanism's radial deployment capability allows payloads to be released at different altitudes, thereby offering greater flexibility for scientific experiments. In summary, this innovative payload radial deployment mechanism represents a significant advancement in sounding rocket technology and holds promise for a wide array of applications in both scientific and commercial missions.
 
