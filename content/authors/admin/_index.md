@@ -31,7 +31,7 @@ bio: My research interests include robotics, AI and rocketry.
 interests:
   - Legged Robotics
   - Reinforcement Learning
-  - Systems Engineering
+  - Robot Controls
   - Rocketry
   - Embedded Systems
 
@@ -120,21 +120,19 @@ social:
   # and uncomment the lines below.
   - icon: download
     icon_pack: fas
-    link: https://drive.google.com/file/d/11WZH7dx99UDM8eiuM8cT4PA1c6lAQUeX/view?usp=sharing
+    link: https://drive.google.com/file/d/18hZpocVy1ttTfuH-4P48X7ciJLcY1Lmc/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I completed my undergraduate studies in Electrical and Electronics Engineering from Manipal Institute of Technology. I am interested in solving problems in the domain of Systems Engineering for Aerospace & Robotics.
+I completed my undergraduate studies in Electrical and Electronics Engineering from Manipal Institute of Technology. I am interested in solving problems in the domain of Robotics especially on the front of Robotics System Design and Controls.
 
 I was part of a student rocketry team - [thrustMIT](https://www.thrustmit.in/) for two years, where I was the Head of Launch Operations for the team as well as led the payload team as the Head. We took part in the Spaceport America Cup 2023 in United States and competed against the teams from most prestigious universities from all over the world. I was responsible for design, development and testing of payloads for our sounding rockets with apogee of about 10,000 fts. We launched our sounding rocket Altair on 23rd of June, 2023 at Spaceport America in New Mexico, United States and it went onto a altitude of 10,300 ft and recovered succesfully.
 
 I have previously worked as a Research Interns at various prestigious institutions like AI & Robotics Technology Park (ARTPARK) - IISc, Indian Institute of Technology (IIT) Roorkee, Indian Institue of Science (IISc) Bangalore, Indian Institute of Technology (IIT) Bombay, DRDO etc. I was awarded the prestigious **IASc‐INSA‐NASI Summer Research Fellowship by Indian Academy of Sciences in 2022**.
 
-My primary research interest and expertise lies in the domains of Reinforcement Learning and Robotics.
-
 **I am currently working as a Associate Electrical Systems Engineer at [Strider Robotics, ARTPARK, Indian Institute of Sciences, Bangalore](https://www.strider-robotics.in/),**  working on developing comprehensive electrical systems for quadruped robots. If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
 
-{{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/1uFkU7gnFrt2Jjb5MCUK0tgHNvMR4VYE-/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/18hZpocVy1ttTfuH-4P48X7ciJLcY1Lmc/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
 {style="text-align: justify;"}
