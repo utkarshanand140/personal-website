@@ -6,7 +6,7 @@ tags:
 date: '2024-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://drive.google.com/file/d/1GPU941nlcSQ7SOvNjXiymolP-fUWWef6/view?usp=sharing'
+external_link: 'https://drive.google.com/file/d/1t88hy3gwzRSf944u6wM3BCv4MBd1ORGP/view?usp=sharing'
 
 image:
   caption: MULE Quadruped Robot
@@ -16,7 +16,7 @@ links:
   - icon: google-drive
     icon_pack: fab
     name: Google Drive
-    url: https://drive.google.com/file/d/1GPU941nlcSQ7SOvNjXiymolP-fUWWef6/view?usp=sharing
+    url: https://drive.google.com/file/d/1t88hy3gwzRSf944u6wM3BCv4MBd1ORGP/view?usp=sharing
 url_code:
 url_pdf: ''
 url_slides: ''
