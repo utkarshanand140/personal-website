@@ -21,7 +21,7 @@ role: Robotics Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: RWTH Aachen University\Germany
+  - name: RWTH Aachen University
     url: https://www.rwth-aachen.de/
 
 # Short bio (displayed in user profile at end of posts)
@@ -41,6 +41,7 @@ education:
     - course: M.Sc. in Robotics Systems Engineering
       institution: RWTH Aachen University 
       year: 2025 - Present
+
     - course: Btech in Electrical & Electronics Engineering
       institution: Manipal Institute of Technology
       year: 2020 - 2024
@@ -129,9 +130,13 @@ social:
 highlight_name: true
 ---
 
-I am a graduate student at RWTH Aachen University in Germany, pursuing Masters in Robotics Systems Engineering. Before, I decided to give up my tools and come back to academia for masters, I was working as an Associate Electrical Systems Engineer at [Strider Robotics, ARTPARK, Indian Institute of Sciences, Bangalore](https://www.strider-robotics.in/),** where I spent 1.5 years doing systemd design and embedded firmware programming for agile-heavy duty quadruped robots. I am eager to solve challenging problems in the domain of Robotics especially on the front of Robotics System Design and Controls. 
+I am a graduate student at RWTH Aachen University, pursuing Masters in Robotics Systems Engineering. I am eager to solve challenging problems in the domain of Robotics especially on the front of Robotics System Design and Controls. 
 
-I have a background in Electrical Engineering from my undergraduate studies at Manipal Insitute of Technlogy where I was part of their student rocketry team - [thrustMIT](https://www.thrustmit.in/) for two years. Being the  Head of Launch Operations for the team as well as leading the payload team to design a robotic payload stabilization platform, we launched our sounding rocket in the USA in summer of 2023. I have previously interned at various reputable institutions like AI & Robotics Technology Park (ARTPARK) - IISc, Indian Institute of Technology (IIT) Roorkee, Indian Institue of Science (IISc) Bangalore, Indian Institute of Technology (IIT) Bombay, DRDO etc. and was awarded the prestigious **IASc‐INSA‐NASI Summer Research Fellowship by Indian Academy of Sciences in 2022**.
+Before I decided to give up my tools and come back to academia for masters, I was working as an Associate Electrical Systems Engineer at [Strider Robotics, ARTPARK, Indian Institute of Sciences, Bangalore](https://www.strider-robotics.in/), where I spent 1.5 years doing system design and embedded firmware programming for quadruped robots. 
+
+I have a background in Electrical Engineering from my undergraduate studies at Manipal Insitute of Technlogy where I was part of their student rocketry team - [thrustMIT](https://www.thrustmit.in/) for two years. Being the  Head of Launch Operations for the team as well as leading the payload team to design a robotic payload stabilization platform, we launched our sounding rocket in the USA in summer of 2023. 
+
+I have previously interned at various reputable institutions like AI & Robotics Technology Park (ARTPARK) - IISc, Indian Institute of Technology (IIT) Roorkee, Indian Institue of Science (IISc) Bangalore, Indian Institute of Technology (IIT) Bombay, DRDO etc. and was awarded the prestigious **IASc‐INSA‐NASI Summer Research Fellowship by Indian Academy of Sciences in 2022**.
 
 **If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
 
