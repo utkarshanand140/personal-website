@@ -122,8 +122,8 @@ sections:
           company_logo: org-chirathe
           location: Bangalore
           date_start: '2024-07-01'
-          date_end: 
-          description: Working on complete electrical system design and firmware programming for agile quadruped robots.
+          date_end: '2025-07-01'
+          description: Worked on comprehensive system design and firmware programming for embedded systems of quadruped robots.
         
         - title: Robotics Embedded Systems Intern
           company: Strider Robotics, ARTPARK (IISc)
@@ -132,7 +132,7 @@ sections:
           location: Bangalore
           date_start: '2024-01-01'
           date_end: '2024-06-28'
-          description: Responsible of complete design, development & testing of both hardware and software of battery subsystem for a quadruped robot from scratch at Chirathe Robotics.
+          description: Responsible of complete design, development & testing of of battery systems of a quadruped robot from scratch.
           ########################################################################
         - title: Deep Learning Research Intern
           company: Boltzmann Labs
@@ -162,43 +162,34 @@ sections:
           location: Remote
           date_start: '2023-07-01'
           date_end: '2023-11-04'
-          description: Worked under Asst. Prof. [Rahul Thakur](https://www.linkedin.com/in/rahul-thakur-5a11a7109/) in IoT Lab and responsible for Design & Development of custom solar powered sensing devices for installation on trees. Also designed PCBs & power electronics circuits for Solar Power Manager and custom I2C Converters.
+          description: Worked under Asst. Prof. [Rahul Thakur](https://www.linkedin.com/in/rahul-thakur-5a11a7109/) in IoT Lab on design & development of custom solar powered sensing devices for installation on trees. Also designed the PCBs & power electronics circuits for a Solar Power Manager and custom I2C Converters.
 
-        - title: Research Fellow
+        - title: Summer Research Fellow
           company: Indian Institute of Sciences
           company_url: 'https://iisc.ac.in/'
           company_logo: org-iisc
           location: Bangalore
           date_start: '2023-01-01'
           date_end: '2023-06-01'
-          description: Worked under Prof. [Govind S. Gupta](https://materials.iisc.ac.in/~govindg/) and worked on Optimization of Multi Phase Flow mathematical computations using custom Neural Networks. Developed a Python based web application for Gas Cabaurizing Process Simulations.
+          description: Worked under Prof. [Govind S. Gupta](https://materials.iisc.ac.in/~govindg/) and on Optimization of Multi Phase Flow mathematical computations using custom Neural Networks. Developed a Python based web application for Gas Cabaurizing Process Simulations.
 
         - title: Computer Vision Intern
-          company: Defence Research & Development Organization
+          company: Defence Research & Development Organization (DRDO)
           company_url: 'https://www.drdo.gov.in/labs-and-establishments/research-centre-imarat-rci'
           company_logo: org-drdo
           location: Hyderabad
           date_start: '2022-12-01'
           date_end: '2023-01-01'
-          description: Worked on the Deep Learning Platform for Defence Applications (DLPDA) project to develop an in-house state of the art Computer Vision based Automated Image Annotation Tool for large & confidential datasets for training of Deep Learning models using OpenCV.Addtionally, developed a user-friendly GUI in Qt & Python and reduced the time taken for annotaiton process by 96%.
+          description: Worked on the Deep Learning Platform for Defence Applications (DLPDA) project to develop an in-house state of the art Computer Vision based Automated Image Annotation Tool for large & confidential datasets for training of Deep Learning models using OpenCV. Addtionally, developed a user-friendly GUI in Qt & Python and reduced the time taken for annotaiton process by 96%.
 
         - title: Head of Payload & Launch Operations Lead
-          company: thrustMIT Rocketry Team
+          company: thrustMIT Student Rocketry Team
           company_url: 'https://www.thrustmit.in/'
           company_logo: org-tmit
           location: Manipal
           date_start: '2021-10-01'
           date_end: '2023-09-01'
           description: Led the Payload subsystem & responsible for design, development and testing of the payloads for a sounding rocket with an apogee of 10k feet. Successfully researched and developed a reliable replacement of RK4 method based air-bake control mechanism by Deep Learning models Successfully developed and patented a novel radial Payload Deployment mechanism for sounding rocket. Developed the official website of the team.
-
-        - title: Deep Learning Intern
-          company: Inflyuva Tech Solutions Pvt. Ltd.
-          company_url: 'https://www.linkedin.com/company/infyuva-tech-solutions-pvt-ltd/about/'
-          company_logo: org-inf
-          location: Manipal
-          date_start: '2022-12-01'
-          date_end: '2023-06-01'
-          description: Developed Mask‐Red‐CNN based Deep Learning models on Fundus Images for early detection of Glaucoma in patients. Successfully tackled working on limited data through various augmentation & generative techniques. Focused on reducing False Negatives & achieved accuracy of almost 94%.
     design:
       columns: '2'
   # - block: accomplishments
