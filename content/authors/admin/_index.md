@@ -40,11 +40,11 @@ education:
   courses:
     - course: M.Sc. in Robotics Systems Engineering
       institution: RWTH Aachen University 
-      year: 2025 - Present
+      year: 2027
 
     - course: Btech in Electrical & Electronics Engineering
       institution: Manipal Institute of Technology
-      year: 2020 - 2024
+      year: 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -138,7 +138,7 @@ I have a background in Electrical Engineering from my undergraduate studies at M
 
 I have previously interned at various reputable institutions like AI & Robotics Technology Park (ARTPARK) - IISc, Indian Institute of Technology (IIT) Roorkee, Indian Institue of Science (IISc) Bangalore, Indian Institute of Technology (IIT) Bombay, DRDO etc. and was awarded the prestigious **IASc‐INSA‐NASI Summer Research Fellowship by Indian Academy of Sciences in 2022**.
 
-**If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
+If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
 
 {{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/15DO87wjyofdgOFNajj9__SxEbGmPPrfu/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
 {style="text-align: justify;"}
