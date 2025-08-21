@@ -40,11 +40,11 @@ education:
   courses:
     - course: M.Sc. in Robotics Systems Engineering
       institution: RWTH Aachen University 
-      year: 2027
-
+      year: 2025 - Present
+  courses:
     - course: Btech in Electrical & Electronics Engineering
       institution: Manipal Institute of Technology
-      year: 2024
+      year: 2020 - 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
