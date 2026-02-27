@@ -29,11 +29,9 @@ bio: My research interests include robotics, AI and rocketry.
 
 # Interests to show in About widget
 interests:
-  - Legged Robotics
-  - Reinforcement Learning
-  - Robot Controls
-  - Rocketry
-  - Embedded Systems
+  - Robust autonomous robotic systems
+  - Legged robotics in unstructured environments
+  - Energy aware and safety critical robotics architectures. 
 
 # Education to show in About widget
 education:
@@ -127,13 +125,7 @@ social:
 highlight_name: true
 ---
 
-I am a graduate student at RWTH Aachen University, pursuing Masters in Robotics Systems Engineering. I am eager to solve challenging problems in the domain of Robotics especially on the front of Robotics System Design and Controls. 
-
-Before I decided to give up my tools and come back to academia for masters, I was working as an Associate Electrical Systems Engineer at [Strider Robotics, ARTPARK, Indian Institute of Sciences, Bangalore](https://www.strider-robotics.in/), where I spent 1.5 years doing system design and embedded firmware programming for quadruped robots. 
-
-I have a background in Electrical Engineering from my undergraduate studies at Manipal Insitute of Technlogy where I was part of their student rocketry team - [thrustMIT](https://www.thrustmit.in/) for two years. Being the  Head of Launch Operations for the team as well as leading the payload team to design a robotic payload stabilization platform, we launched our sounding rocket in the USA in summer of 2023. 
-
-I have previously interned at various reputable institutions like AI & Robotics Technology Park (ARTPARK) - IISc, Indian Institute of Technology (IIT) Roorkee, Indian Institue of Science (IISc) Bangalore, Indian Institute of Technology (IIT) Bombay, DRDO etc. and was awarded the prestigious **IASc‐INSA‐NASI Summer Research Fellowship by Indian Academy of Sciences in 2022**.
+I am a robotics graduate student at RWTH Aachen University with industry experience in quadruped robotic systems and embedded architectures. My interests lie in robust autonomous systems operating in unstructured and extreme environments, particularly in the context of legged and space-capable platforms.
 
 If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
 
