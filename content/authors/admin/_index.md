@@ -127,6 +127,9 @@ highlight_name: true
 
 I am a robotics graduate student at RWTH Aachen University with industry experience in quadruped robotic systems and embedded architectures. My interests lie in robust autonomous systems operating in unstructured and extreme environments, particularly in the context of legged and space-capable platforms.
 
+# Research Vision
+My long-term goal is to contribute to the development of autonomous robotic systems that can operate reliably beyond laboratory conditions. I am particularly interested in system-level integration of control, estimation, and hardware constraints for extreme-environment robotics.
+
 If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
 
 {{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/15DO87wjyofdgOFNajj9__SxEbGmPPrfu/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
