@@ -1,6 +1,6 @@
 ---
-title: Official Website of thrustMIT
-summary: Developed the official website of the thrustMIT Rocketry Team using HTML, CSS, JS & Bootstrap.
+title: thrustMIT website
+summary: Developed the website of the thrustMIT rocketry team using HTML, CSS, JS & Bootstrap.
 tags:
   - Other
 date: '2022-11-27T00:00:00Z'

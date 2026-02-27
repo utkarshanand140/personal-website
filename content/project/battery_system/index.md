@@ -1,6 +1,6 @@
 ---
 title: Battery Systems for Quadruped Robot
-summary: Designed and Developed an efficient Battery System for a Quadruped Robot from Scratch as my final year B.Tech Thesis project, focusing on integrating the BMS to the robot, designing an efficient emergency stop mechanism and writing firmware for the main electrical board of the robot.
+summary: An efficient battery system for a quadruped robots as part of my bachelor thesis project, focusing on integrating the BMS to the robot, designing an efficient emergency stop mechanism and developing embedded RTOS based firmware for the robot.
 tags:
   - Robotics
 date: '2024-06-27T00:00:00Z'

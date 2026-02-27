@@ -1,9 +1,9 @@
 ---
 title: VisionTag - AutoAnnotation Software
-summary: VisionTag is GUI software created using Python, OpenCV & Qt. It uses computer vision techniques to automate the annotation process of image datasets for training Deep Learning models.
+summary: Python based GUI application used automate the annotation process of image datasets for training deep learning models.
 tags:
   - CV
-date: '2023-01-24T00:00:00Z'
+date: '2024-04-24T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/utkarshanand140/VisionTag'

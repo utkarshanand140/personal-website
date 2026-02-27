@@ -1,9 +1,9 @@
 ---
 title: STEWIE - Parallel Manipulator Robot
-summary: A 3DoF parallel manipulator robot which was built as a payload for a sounding rocket **Altair** by members of thrustMIT.
+summary: A 3-DoF parallel manipulator robot built with micro servo actuators.
 tags:
   - Robotics
-date: '2023-04-27T00:00:00Z'
+date: '2026-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/utkarshanand140/Stewie-Robot'
