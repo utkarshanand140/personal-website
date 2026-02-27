@@ -116,14 +116,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Associate Electrical System Engineer
+        - title: Associate Electrical Systems Engineer
           company: Strider Robotics, ARTPARK (IISc)
           company_url: 'https://www.strider-robotics.in/'
           company_logo: org-chirathe
           location: Bangalore
           date_start: '2024-07-01'
           date_end: '2025-07-01'
-          description: Worked on comprehensive system design and firmware programming for embedded systems of quadruped robots.
+          description: Led the electronics team working on comprehensive system design and embedded firmware programming for heavy duty agile quadruped robots. 
         
         - title: Robotics Embedded Systems Intern
           company: Strider Robotics, ARTPARK (IISc)
@@ -132,7 +132,7 @@ sections:
           location: Bangalore
           date_start: '2024-01-01'
           date_end: '2024-06-28'
-          description: Responsible of complete design, development & testing of of battery systems of a quadruped robot from scratch.
+          description: Designed new battery systems and safety systems for quadruped robots focusing on integrating BMS to control boards and integrating emergency stop mechanisms to the robot.
           ########################################################################
         - title: Deep Learning Research Intern
           company: Boltzmann Labs
@@ -141,7 +141,7 @@ sections:
           location: Remote
           date_start: '2023-11-01'
           date_end: '2023-12-31'
-          description: Developed reward based LLMs for peptide generation targeting a high protein-protein interaction binding affinity and worked on prediction models for T-Cell Receptor-peptide binding & Peptide-HLA Class-I binding for high Spearman Score.
+          description: Developed reward based LLMs for peptide generation targeting a high protein-protein interaction binding affinity and worked on prediction models for T-cell receptor-peptide binding & Peptide-HLA Class-I binding for high Spearman score.
         # - title: Deep Learning Research Intern
         #   company: Boltzmann Labs
         #   company_url: 'https://boltzmann.co/'
@@ -162,7 +162,7 @@ sections:
           location: Remote
           date_start: '2023-07-01'
           date_end: '2023-11-04'
-          description: Worked under Asst. Prof. [Rahul Thakur](https://www.linkedin.com/in/rahul-thakur-5a11a7109/) in IoT Lab on design & development of custom solar powered sensing devices for installation on trees. Also designed the PCBs & power electronics circuits for a Solar Power Manager and custom I2C Converters.
+          description: Worked in the IoT Lab on design & development of custom solar powered sensing devices for installation on trees. Also designed the PCBs & power electronics circuits for a Solar Power Manager and custom I2C converters.
 
         - title: Summer Research Fellow
           company: Indian Institute of Sciences
@@ -171,7 +171,7 @@ sections:
           location: Bangalore
           date_start: '2023-01-01'
           date_end: '2023-06-01'
-          description: Worked under Prof. [Govind S. Gupta](https://materials.iisc.ac.in/~govindg/) and on Optimization of Multi Phase Flow mathematical computations using custom Neural Networks. Developed a Python based web application for Gas Cabaurizing Process Simulations.
+          description: Worked on optimization of multi phase flow mathematical computations using custom neural networks. Developed a python based web application for Gas Cabaurizing process simulations.
 
         - title: Computer Vision Intern
           company: Defence Research & Development Organization (DRDO)
@@ -180,7 +180,7 @@ sections:
           location: Hyderabad
           date_start: '2022-12-01'
           date_end: '2023-01-01'
-          description: Worked on the Deep Learning Platform for Defence Applications (DLPDA) project to develop an in-house state of the art Computer Vision based Automated Image Annotation Tool for large & confidential datasets for training of Deep Learning models using OpenCV. Addtionally, developed a user-friendly GUI in Qt & Python and reduced the time taken for annotaiton process by 96%.
+          description: Worked on the Deep Learning Platform for Defence Applications (DLPDA) project to develop an in-house state of the art 'Automated Image Annotation Tool' for large & confidential datasets used for training of Deep Learning models. Reduced the time taken for annotaiton process by 96%.
 
         - title: Head of Payload & Launch Operations Lead
           company: thrustMIT Student Rocketry Team
@@ -189,7 +189,7 @@ sections:
           location: Manipal
           date_start: '2021-10-01'
           date_end: '2023-09-01'
-          description: Led the Payload subsystem & responsible for design, development and testing of the payloads for a sounding rocket with an apogee of 10k feet. Successfully researched and developed a reliable replacement of RK4 method based air-bake control mechanism by Deep Learning models Successfully developed and patented a novel radial Payload Deployment mechanism for sounding rocket. Developed the official website of the team.
+          description: Led the 'Payload' subsystem & responsible for design, development and testing of the payloads for a sounding rocket with an apogee of 10k feet. Successfully researched and developed a reliable replacement of RK4 method based air-bake control mechanism by Deep Learning models. Patented a novel radial payload deployment mechanism for sounding rocket. 
     design:
       columns: '2'
   # - block: accomplishments
