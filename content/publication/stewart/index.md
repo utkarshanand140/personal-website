@@ -31,7 +31,7 @@ tags: [
   Parallel Manipulators, Robotics, Payload, Sounding Rocket, Control Systems, Kinematics
 
 ]
-featured: false
+featured: true
 
 links:
 # - name: Custom Link

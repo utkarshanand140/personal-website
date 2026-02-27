@@ -36,7 +36,7 @@ summary: This research proposed a Deep Learning based optimized replacement of t
 tags: [sounding rocket, deep learning, neural networks, airbrakes]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
