@@ -7,23 +7,23 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Awards
-    url: '#award'
+  - name: Projects
+    url: '#projects'
     weight: 20
   - name: Publications
     url: '#featured'
     weight: 30
-  - name: Patents
-    url: '#patent'
-    weight: 40
-  - name: Experience
-    url: '#experience'
-    weight: 50
-  - name: Projects
-    url: '#projects'
-    weight: 60
   - name: Gallery
     url: '#gallery'
+    weight: 40
+  - name: Patents
+    url: '#patent'
+    weight: 50
+  - name: Experience
+    url: '#experience'
+    weight: 60
+  - name: Awards
+    url: '#award'
     weight: 70
   - name: Blogs
     url: 'https://utkarsh-blogs.netlify.app/'

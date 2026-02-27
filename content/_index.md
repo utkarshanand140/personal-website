@@ -43,16 +43,37 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: markdown
-    id: award
+  - block: portfolio
+    id: projects
     content:
-      title: Awards
-      text: <ul><li> <a href="https://webjapps.ias.ac.in/fellowship2022/lists/result.jsp">IASc‐INSA‐NASI Summer Research Fellowship 2022</a> by Indian Academy of Sciences </li><li><a href="https://drive.google.com/file/d/1uRIwjcsthqqe_wR86Egf5BL2SVgjJrkO/view">2nd Position at  Design Dentaverse 1.0 Hackathon</a> for a Smart Scrub with Posture Correction.</li></ul>
-
-      
+      title: Projects
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Robotics
+          tag: Robotics
+        - name: Computer Vision
+          tag: CV
+        - name: Electronics
+          tag: Electro
+        - name: Other
+          tag: Other
     design:
-      columns: '2'
-      view: compact
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
 
   - block: collection
     id: featured
@@ -79,6 +100,16 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  - block: markdown
+    id: gallery
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
   # - block: skills
   #   content:
   #     title: Skills
@@ -192,6 +223,17 @@ sections:
           description: Led the 'Payload' subsystem & responsible for design, development and testing of the payloads for a sounding rocket with an apogee of 10k feet. Successfully researched and developed a reliable replacement of RK4 method based air-bake control mechanism by Deep Learning models. Patented a novel radial payload deployment mechanism for sounding rocket. 
     design:
       columns: '2'
+
+  - block: markdown
+    id: award
+    content:
+      title: Awards
+      text: <ul><li> <a href="https://webjapps.ias.ac.in/fellowship2022/lists/result.jsp">IASc‐INSA‐NASI Summer Research Fellowship 2022</a> by Indian Academy of Sciences </li><li><a href="https://drive.google.com/file/d/1uRIwjcsthqqe_wR86Egf5BL2SVgjJrkO/view">2nd Position at  Design Dentaverse 1.0 Hackathon</a> for a Smart Scrub with Posture Correction.</li></ul>
+
+      
+    design:
+      columns: '2'
+      view: compact
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -264,46 +306,7 @@ sections:
   
   
   
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Robotics
-          tag: Robotics
-        - name: Computer Vision
-          tag: CV
-        - name: Electronics
-          tag: Electro
-        - name: Other
-          tag: Other
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  - block: markdown
-    id: gallery
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  
   
   # - block: tag_cloud
   #   content:
