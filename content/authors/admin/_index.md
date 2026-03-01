@@ -119,7 +119,7 @@ social:
   # and uncomment the lines below.
   - icon: download
     icon_pack: fas
-    link: https://drive.google.com/file/d/15DO87wjyofdgOFNajj9__SxEbGmPPrfu/view?usp=sharing
+    link: https://drive.google.com/file/d/1t5tO-8QtnHe60NCxXI0qMCUJ97_mzcmc/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -132,5 +132,5 @@ My long-term goal is to contribute to the development of autonomous robotic syst
 
 If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
 
-{{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/15DO87wjyofdgOFNajj9__SxEbGmPPrfu/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "https://drive.google.com/file/d/1t5tO-8QtnHe60NCxXI0qMCUJ97_mzcmc/view?usp=sharing" "newtab" >}}Download my CV{{< /staticref >}}.
 {style="text-align: justify;"}
