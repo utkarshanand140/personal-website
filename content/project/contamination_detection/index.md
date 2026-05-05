@@ -3,7 +3,7 @@ title: Multi-Sensor Contamination Detection (LiDAR + Camera + ROS2)
 summary: Developed a ROS2-based system to detect sensor degradation using LiDAR and RGB camera data. Implemented feature extraction (intensity statistics, blur detection), threshold-based classification, and multi-sensor fusion to identify contamination states (Normal/Reduced/Critical). Validated using real-world datasets collected under dust, water, and mud conditions.
 tags:
   - Robotics
-date: '2026-06-27T00:00:00Z'
+date: '2026-01-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/utkarshanand140/sensor-contamination-detection-ros2'
