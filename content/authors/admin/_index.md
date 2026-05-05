@@ -119,16 +119,20 @@ social:
   # and uncomment the lines below.
   - icon: download
     icon_pack: fas
-    link: https://drive.google.com/file/d/1t5tO-8QtnHe60NCxXI0qMCUJ97_mzcmc/view?usp=sharing
+    link: https://drive.google.com/file/d/14ZiAxf_S9UBFF_4uRqRuVG3qx3vkv1o_/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a robotics graduate student at RWTH Aachen University with industry experience in quadruped robotic systems and embedded architectures. My interests lie in robust autonomous systems operating in unstructured and extreme environments, particularly in the context of legged and space-capable platforms.
+I am a robotics graduate student at RWTH Aachen University with hands-on experience in real-world robotic systems, including quadruped platforms and embedded architectures. My work lies at the intersection of perception, control, and system-level integration, with recent focus on LiDAR and stereo vision-based perception pipelines using ROS2 and 3D point cloud data.
+
+I am particularly interested in building robust autonomous systems that can operate reliably in unstructured and challenging environments, including applications in legged robotics and extreme-condition deployments.
 
 # Research Vision
-My long-term goal is to contribute to the development of autonomous robotic systems that can operate reliably beyond laboratory conditions. I am particularly interested in system-level integration of control, estimation, and hardware constraints for extreme-environment robotics.
+My long-term goal is to contribute to the development of autonomous robotic systems that perform reliably beyond controlled laboratory settings. I am especially interested in the integration of perception, control, and estimation within real-world constraints, where sensing uncertainty, environmental variability, and system limitations play a critical role.
+
+I aim to work on robotics systems that bridge the gap between theoretical methods and deployment-ready solutions, with a focus on robustness, reliability, and adaptability in complex environments.
 
 If you are interested to inlcude me onto your projects, please contact me on my [email](mailto:utkarshanand221@gmail.com).
 
